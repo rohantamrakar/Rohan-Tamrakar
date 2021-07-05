@@ -1,4 +1,4 @@
-### Hi there, I'm Pragun Bajracharya 👋
+### Hi there, I'm Rohan Tamrakar 👋
 
 [![Website](https://img.shields.io/badge/https%3A%2F%2Frohantamrakar.com.np%2F-UP-lightgrey?style=for-the-badge&color=green)](https://rohantamrakar.com.np)
 
