@@ -5,7 +5,7 @@
 ## I'm a Developer, and Student!
 
 - 🔭 I’m currently waiting for my results
-- 🌱 I’m currently learning React JS & Laravel
+- 🌱 I’m currently learning React JS 
 - 📫 How to reach me: tamrakarrohan@gmail.com
 - ⚡ Fun fact: I love to play computer games
 
